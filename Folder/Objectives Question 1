@@ -1,0 +1,18 @@
+Objectives:
+1. Clean the data using python and transform it to SQL (Postgres) with stream and batch
+processing > Completed
+
+2. Create table for log start time and end time from data > problems : the Starts and end time that I parsed from json have 35,349 Null values,
+hence the absence
+
+3. Create table for vehicle location. > Completed
+
+4. Visualize data the average distance traveled by our vehicles during an operating
+period. > Ongoing, for now is displaying the exact coordinate of the locations
+
+5. Visualize data the most data from every event > Completed
+
+6. Visualize data the most vehicle track by dates. > Completed
+
+7. Take a video for every objectives, make a documentation and can bundle it with
+docker will be plus point. > Completed -minus docker & video
