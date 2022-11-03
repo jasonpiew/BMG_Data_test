@@ -19,3 +19,9 @@ inside the Folder Question 1 contains all details and file required to achieve t
 
 # Folder
 ### folder name : Question 1
+#### - Boston Makmur Gemilang Test.ipynb
+#### - Boston Makmur Gemilang - SQL Explanations.pdf
+#### - Boston Makmur Gemilang - Tableau Visualization Explanations.pdf
+#### - Objectives Question 1
+
+# Thank you!
