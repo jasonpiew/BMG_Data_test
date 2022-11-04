@@ -15,7 +15,7 @@ after that I'm required to migrate the database to PostgreSQL server and then vi
 inside the Folder Question 1 contains all details and file required to achieve the tasks.
 
 # Timeline
-24 Hour
+3 Nov - 4 Nov (24 Hour)
 
 # Folder
 ### folder name : Question 1
